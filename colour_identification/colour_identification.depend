@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1679942915 source:c:\users\eeyna3\desktop\opencv intro task\colour_identification\main.cpp
+	<iostream>
+	<stdio.h>
+	"opencv2/core.hpp"
+	"opencv2/highgui.hpp"
+	"opencv2/imgproc.hpp"
+
